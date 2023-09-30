@@ -1,3 +1,5 @@
 # Homework_Tracker
 Desktop application to track your homework. The project inspiration came from the normal website that I use to track my homework assignments not letting me add more assignments. So I said, "I'll just make my own". 
 This project has been spread out over the course of about a week and served as an introduction for me to Tkinter and Python in general. I have experience coding, mostly in Java, and decided that it was time to try Python. The app also served as a simple intro to Python CSV files, reading and writing to files, and the syntax as a whole. I enjoyed making this and look forward to revising and polishing my Tkinter skills.
+# How to Use
+Before using the homework tracker, ensure that you have a CSV file in the current directory and that "csv_file" variable (default homework tracker file path) is the name of your CSV file. That CSV file is opened on startup. There are two ways that you can use this homework tracker. Either 1) run the file "gui_implementation.py" and use the Tkinter GUI or 2) run the file "HomeworkDriver.py" and have a command-line-based program. 
